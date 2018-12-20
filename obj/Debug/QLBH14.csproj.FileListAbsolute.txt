@@ -1,1 +1,9 @@
 C:\Users\DELL\Desktop\QLBH14\bin\Debug\QLBH14.exe.config
+C:\Users\DELL\Desktop\QLBH14\obj\Debug\QLBH14.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\QLBH14\obj\Debug\QLBH14.Properties.Resources.resources
+C:\Users\DELL\Desktop\QLBH14\obj\Debug\QLBH14.View.KhachHang.resources
+C:\Users\DELL\Desktop\QLBH14\obj\Debug\QLBH14.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\QLBH14\bin\Debug\QLBH14.exe
+C:\Users\DELL\Desktop\QLBH14\bin\Debug\QLBH14.pdb
+C:\Users\DELL\Desktop\QLBH14\obj\Debug\QLBH14.exe
+C:\Users\DELL\Desktop\QLBH14\obj\Debug\QLBH14.pdb
